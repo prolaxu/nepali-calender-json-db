@@ -32,5 +32,4 @@ This is simple and small JSON database of Nepali calendar events,festivals,tithe
    },
    .........
 }
-}
 ```
