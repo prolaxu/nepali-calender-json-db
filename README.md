@@ -7,7 +7,7 @@ This is simple and small JSON database of Nepali calendar events,festivals,tithe
 #### Get item
 
 ```http
-  GET https://raw.githubusercontent.com/prolaxu/nepali-calender-json-db/main/${year}/${month}.json
+  GET https://prolaxu.github.io/nepali-calender-json-db/${year}/${month}.json
 ```
 
 | Parameter | Type  | Description                                |
